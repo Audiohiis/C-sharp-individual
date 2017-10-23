@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-input", "02-input\02-inp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-user-input", "03-user-input\03-user-input.csproj", "{FF69FB6C-7755-4D61-8EDA-B59145D81FA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ask-and-calculate", "04-ask-and-calculate\04-ask-and-calculate.csproj", "{E7BE46E6-BD65-4221-9635-2947AC3FC79F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{FF69FB6C-7755-4D61-8EDA-B59145D81FA8}.Debug|x86.Build.0 = Debug|x86
 		{FF69FB6C-7755-4D61-8EDA-B59145D81FA8}.Release|x86.ActiveCfg = Release|x86
 		{FF69FB6C-7755-4D61-8EDA-B59145D81FA8}.Release|x86.Build.0 = Release|x86
+		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Debug|x86.ActiveCfg = Debug|x86
+		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Debug|x86.Build.0 = Debug|x86
+		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Release|x86.ActiveCfg = Release|x86
+		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
