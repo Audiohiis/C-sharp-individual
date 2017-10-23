@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-user-input", "03-user-in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ask-and-calculate", "04-ask-and-calculate\04-ask-and-calculate.csproj", "{E7BE46E6-BD65-4221-9635-2947AC3FC79F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-if-else", "05-if-else\05-if-else.csproj", "{1BDBDA5D-86A2-443D-B8F8-3B16FD862A0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,5 +33,9 @@ Global
 		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Debug|x86.Build.0 = Debug|x86
 		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Release|x86.ActiveCfg = Release|x86
 		{E7BE46E6-BD65-4221-9635-2947AC3FC79F}.Release|x86.Build.0 = Release|x86
+		{1BDBDA5D-86A2-443D-B8F8-3B16FD862A0A}.Debug|x86.ActiveCfg = Debug|x86
+		{1BDBDA5D-86A2-443D-B8F8-3B16FD862A0A}.Debug|x86.Build.0 = Debug|x86
+		{1BDBDA5D-86A2-443D-B8F8-3B16FD862A0A}.Release|x86.ActiveCfg = Release|x86
+		{1BDBDA5D-86A2-443D-B8F8-3B16FD862A0A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
