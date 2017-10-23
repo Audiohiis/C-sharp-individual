@@ -9,7 +9,7 @@ namespace ifelse
             Console.WriteLine("Ma valin välja ühe suvalise numbri [1-100]. Proovi see ära arvata!");
 
             Random rnd = new Random();
-            int myNumber = rnd.Next(1, 10);
+            int myNumber = rnd.Next(1, 101);
 
             Console.Write("Sina pakud: ");
             int userNumber = Int32.Parse(Console.ReadLine());
